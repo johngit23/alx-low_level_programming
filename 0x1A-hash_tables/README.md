@@ -69,8 +69,6 @@ where ht is the hash table
 
 In PHP, hash tables are ordered. Wait… WAT? How is this even possible?
 
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/5ebbea5dea5a575b38243d597604000715982925.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230706T065907Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=675c5a4c227a63d32b52eeac0b8f1dc86143a06e18c0f5535f323096fc975ad2
-
 Before you continue, please take a moment to think about it: how you would implement it if you were asked to during an interview or a job. What data structures would you use? How would it work?
 
 For this task, please:
